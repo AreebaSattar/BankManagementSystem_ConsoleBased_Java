@@ -1,0 +1,3 @@
+1,deduct,12.0,Sun Oct 16 17:05:48 PKT 2022
+1,deduct,12.0,Sun Oct 16 17:06:26 PKT 2022
+1,deduct,23.0,Sun Oct 16 17:14:26 PKT 2022
